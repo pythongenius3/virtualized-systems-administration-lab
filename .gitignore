@@ -1,0 +1,16 @@
+*.log
+*.tmp
+*.bak
+*.key
+*.pem
+*.pfx
+*.cer
+
+reports/*.json
+reports/*.csv
+reports/*.txt
+
+!reports/.gitkeep
+
+secrets/
+credentials/
